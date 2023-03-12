@@ -6,4 +6,4 @@ Library needed to run: tensorflow, pytorch, threading, tkinter, numpy, cv2, pytu
 
 The model weight file is compressed as "tvsum_splits_1_0.6187176441788906.tar.pth.zip.00x"
 
-The application can be run by compiling score.py
+The application can be run by compiling score.py, config.txt is used to set directories and model settings.
